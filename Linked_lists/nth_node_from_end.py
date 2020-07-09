@@ -1,5 +1,5 @@
 #GFG: Nth node from end of linked list
-#Nk problem-5
+#Nk linked list problem-5
 
 
 #User function Template for python3
